@@ -1,4 +1,4 @@
-#  Evaluacion2 - Software de Geolocalización
+#  Evaluacion2 - GraphHopper Mejorado-ESP
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -23,13 +23,13 @@ Sigue estos pasos para poner en marcha el script.
 ###  Prerrequisitos
 
 * Asegúrate de tener **Python 3** instalado.
-* Necesitarás la librería `requests` y `faker`.
+* Necesitarás la librería `requests`.
 
-### 🔧 Instalación y Configuración
+###  Instalación y Configuración
 
 1.  **Clona este repositorio:**
     ```bash
-    git clone [https://github.com/TuUsuario/Evaluacion2.git](https://github.com/TuUsuario/Evaluacion2.git)
+    git clone (https://github.com/gapaulduoc/Evaluacion2/tree/main)
     cd Evaluacion2
     ```
 
@@ -58,7 +58,7 @@ Sigue estos pasos para poner en marcha el script.
 
 ---
 
-## 👨‍💻 Realizado por
+##  Realizado por
 
-* Tu Nombre
-* Nombre de tu Compañero/a
+* Gabriel Paul
+* Vicente Medel
